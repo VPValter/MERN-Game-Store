@@ -5,6 +5,7 @@
 * MERN Stack: MongoDB, Express, Node, React
 * Uses Redux for state management
 * Uses Mongoose for additional back-end features
+* Uses JWT for authentication
 * ...and many other useful libraries...
 
 ## Some features
