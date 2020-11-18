@@ -438,6 +438,7 @@ button {
 .dash-genre {
   margin-left: 1rem;
   color: orange;
+  white-space: nowrap;
 }
 .dash-genre .fa-star {
   margin-right: 0.5rem;
@@ -597,13 +598,22 @@ button {
 
   /* Navbar */
   .navbar {
-    display: block;
-    text-align: center;
+    /* display: block; */
+    /* text-align: center; */
+
+    /* quick responsive fix */
+    display: grid;
+    grid-template-columns: auto auto;
   }
 
   .navbar ul {
     text-align: center;
     justify-content: center;
+  }
+
+  .navbar > ul > li > a {
+    display: block;
+    padding: 8px 12px;
   }
 
   .navbar h1 {
@@ -657,5 +667,20 @@ button {
   .post a,
   .post button {
     padding: 0.3rem 0.4rem;
+  }
+}
+
+@media (max-width: 540px) {
+  .dash-profile {
+    display: block;
+  }
+  .dash-profile > img {
+    object-position: left;
+  }
+}
+
+@media (max-width: 360px) {
+  .navbar {
+    padding: 0.7rem 0.5rem;
   }
 }

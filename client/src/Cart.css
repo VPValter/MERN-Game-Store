@@ -42,3 +42,9 @@
 .cart-total {
   margin-bottom: 2rem;
 }
+
+@media (max-width: 700px) {
+  .cart-container {
+    padding-top: 7rem;
+  }
+}

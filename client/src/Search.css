@@ -41,3 +41,12 @@ button.close {
   cursor: pointer;
 } */
 /* + remove display: block from navbar on 700 breakpoint */
+
+.search-form {
+  grid-column: 1 / 3;
+  grid-row: 2 / 3;
+  display: flex;
+}
+.search-form > input[type="search"] {
+  width: 100%;
+}
