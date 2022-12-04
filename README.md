@@ -18,4 +18,4 @@
 This is the first version, there is still a lot of room for improvments.
 
 ### You can see it live here:
-https://sheltered-bastion-09350.herokuapp.com/
+https://legendary-game-store-production.up.railway.app/
