@@ -8,6 +8,7 @@ connectDB();
 // Init Middleware
 app.use(express.json({ extended: false }));
 
+// test git repo
 app.get('/', (req, res) => res.send('API Running'));
 
 // Define Routes
