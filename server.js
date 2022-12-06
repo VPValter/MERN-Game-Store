@@ -8,7 +8,7 @@ connectDB();
 // Init Middleware
 app.use(express.json({ extended: false }));
 
-// test git repo
+// test git repo - folder lgs
 app.get('/', (req, res) => res.send('API Running'));
 
 // Define Routes
