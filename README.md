@@ -19,3 +19,4 @@ This is the first version, there is still a lot of room for improvments.
 
 ### You can see it live here:
 https://legendary-game-store-production.up.railway.app/
+
