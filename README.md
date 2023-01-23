@@ -18,6 +18,6 @@
 This is the first version, there is still a lot of room for improvments.
 
 ### You can see it live here:
-https://mern-game-store.onrender.com/
-or
+https://mern-game-store.onrender.com/  
+or  
 https://legendary-game-store-production.up.railway.app/
