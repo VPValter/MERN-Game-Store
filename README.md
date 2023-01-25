@@ -15,7 +15,7 @@
 * Shopping cart for adding multiple items
 
 ## Future plans / TODO:
-This is the first version, there is still a lot of room for improvments.
+**Currently redoing this project using newer technologies - NextJS, Prisma, TypeScript...**
 
 ### You can see it live here:
 https://mern-game-store.onrender.com/  
