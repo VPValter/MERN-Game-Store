@@ -14,10 +14,10 @@
 * Developer info
 * Shopping cart for adding multiple items
 
-## Future plans / TODO:
-**Currently redoing this project using newer technologies - NextJS, Prisma, TypeScript...**
-
-### You can see it live here:
+## You can see it live here:
 https://mern-game-store.onrender.com/  
 or  
 https://legendary-game-store-production.up.railway.app/
+
+## Future plans:
+**Currently redoing this project using newer technologies - NextJS, Prisma, TypeScript:** https://github.com/VPValter/next-game-store
