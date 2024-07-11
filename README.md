@@ -16,8 +16,6 @@
 
 ## You can see it live here:
 https://mern-game-store.onrender.com/  
-or  
-https://legendary-game-store-production.up.railway.app/
 
 ## Future plans:
-**Currently redoing this project using newer technologies - NextJS, Prisma, TypeScript:** https://github.com/VPValter/next-game-store
+**Redo this project using newer technologies - NextJS, Prisma, TypeScript**
